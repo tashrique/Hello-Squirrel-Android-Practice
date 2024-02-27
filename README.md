@@ -33,7 +33,7 @@ The following STRETCH features are implemented:
 Here's a video / GIF that demos all of the app's implemented features:
 
 
-<img src='https://imgur.com/auKrSGr' title='Video Demo - Tashrique' width='' alt='Video Demo' />
+<img src="https://i.imgur.com/auKrSGr.gif" title='Video Demo - Tashrique' width='' alt='Video Demo - Tashrique' />
 
 GIF created with [ScreenToGif](https://www.screentogif.com/) for Windows
 
