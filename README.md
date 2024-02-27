@@ -32,13 +32,13 @@ The following STRETCH features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
+<img src='[http://i.imgur.com/link/to/your/gif/file.gif](https://imgur.com/auKrSGr)' title='Video Demo - Tashrique' width='' alt='Video Demo' />
 
-GIF created with **your chosen GIF tool**
+GIF created with [ScreenToGif](https://www.screentogif.com/) for Windows
 
 <!-- Recommended tools:
 - [Kap](https://getkap.co/) for macOS
-- [ScreenToGif](https://www.screentogif.com/) for Windows
+- 
 - [peek](https://github.com/phw/peek) for Linux. -->
 
 ## Notes
